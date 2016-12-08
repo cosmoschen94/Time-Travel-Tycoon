@@ -5,3 +5,8 @@ This is the code base for Time Travel Tycoon, the game built by Omar Ozgur, Jaha
 The video for the final project can be found here: https://www.youtube.com/watch?v=_V2aTiuYLu4
 
 The final report can be found here: https://goo.gl/UV2mkB
+
+Technology used:
+* [CryEngine5.0](https://www.cryengine.com/)
+* [Blender](https://www.blender.org/)
+* XML
