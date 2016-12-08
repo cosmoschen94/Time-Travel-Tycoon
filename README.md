@@ -20,3 +20,9 @@ The final report can be found here: https://goo.gl/UV2mkB
 
 #### Target
 ![Target](https://github.com/cosmoschen94/Time-Travel-Tycoon/blob/master/Image_3.png "Target")
+
+#### AI Player Flowgraph
+![AI Player Flowgraph](https://github.com/cosmoschen94/Time-Travel-Tycoon/blob/master/AI-Player-Flowgraph.png "AI Player Flowgraph")
+
+#### Blender
+![Blender](https://github.com/cosmoschen94/Time-Travel-Tycoon/blob/master/Blender-Import.png "Blender")
