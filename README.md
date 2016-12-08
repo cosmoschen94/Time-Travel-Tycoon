@@ -6,7 +6,17 @@ The video for the final project can be found here: https://www.youtube.com/watch
 
 The final report can be found here: https://goo.gl/UV2mkB
 
-Technology used:
+### Technology used:
 * [CryEngine5.0](https://www.cryengine.com/)
 * [Blender](https://www.blender.org/)
 * XML
+
+### Screeshots:
+#### Human Player
+![Human Player](https://github.com/cosmoschen94/Time-Travel-Tycoon/blob/master/Image_1.png "Human Player")
+
+#### AI Player
+![AI Player](https://github.com/cosmoschen94/Time-Travel-Tycoon/blob/master/Image_2.png "AI Player")
+
+#### Target
+![Target](https://github.com/cosmoschen94/Time-Travel-Tycoon/blob/master/Image_3.png "Target")
